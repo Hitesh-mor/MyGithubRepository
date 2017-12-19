@@ -8,9 +8,11 @@
 
 import UIKit
 
-var Name:String!
 
 class ViewController: UIViewController {
+
+    var Name:String!
+    var test:Bool! = true
 
     override func viewDidLoad() {
         super.viewDidLoad()
