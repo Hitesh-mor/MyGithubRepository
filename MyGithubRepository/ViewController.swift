@@ -12,11 +12,6 @@ var HiteshMac:String!
 
 class ViewController: UIViewController {
 
-    var Name:String!
-    var test:Bool! = true
-    var test2:Bool! = true
-    var directPush:String!
-    
     var workdone: String!
 
     override func viewDidLoad() {
