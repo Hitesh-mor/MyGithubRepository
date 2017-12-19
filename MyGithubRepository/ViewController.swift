@@ -8,7 +8,6 @@
 
 import UIKit
 
-
 var HiteshMac:String!
 
 class ViewController: UIViewController {
