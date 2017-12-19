@@ -14,6 +14,7 @@ class ViewController: UIViewController {
 
     var Hitesh: String!
     var Mor: String!
+    var m:String!
 
     
     override func viewDidLoad() {
