@@ -10,6 +10,8 @@ import UIKit
 
 var Name:String!
 
+var HiteshMac:String!
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
