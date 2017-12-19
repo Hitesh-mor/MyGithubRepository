@@ -13,6 +13,7 @@ var HiteshMac:String!
 class ViewController: UIViewController {
 
     var workdone: String!
+    var raghav: String!
 
     override func viewDidLoad() {
         super.viewDidLoad()
