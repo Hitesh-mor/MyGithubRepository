@@ -14,6 +14,7 @@ class ViewController: UIViewController {
 
     var workdone: String!
     var raghav: String!
+    var chopra: String!
 
     override func viewDidLoad() {
         super.viewDidLoad()
