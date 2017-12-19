@@ -13,6 +13,7 @@ class ViewController: UIViewController {
 
     var Name:String!
     var test:Bool! = true
+    var test2:Bool! = true
 
     override func viewDidLoad() {
         super.viewDidLoad()
