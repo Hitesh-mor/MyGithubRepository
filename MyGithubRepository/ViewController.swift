@@ -16,6 +16,8 @@ class ViewController: UIViewController {
     var test:Bool! = true
     var test2:Bool! = true
     var directPush:String!
+    
+    var workdone: String!
 
     override func viewDidLoad() {
         super.viewDidLoad()
